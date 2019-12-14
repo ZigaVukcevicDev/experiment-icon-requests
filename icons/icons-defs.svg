@@ -1,11 +1,11 @@
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<symbol id="icon-add_comment" viewBox="0 0 32 32">
-<title>add_comment</title>
+<symbol id="icon-add-comment" viewBox="0 0 32 32">
+<title>add-comment</title>
 <path d="M28.8 0c1.76 0 3.2 1.44 3.2 3.2v0 28.8l-6.4-6.4h-22.4c-1.76 0-3.2-1.44-3.2-3.2v0-19.2c0-1.76 1.44-3.2 3.2-3.2v0zM17.6 4.8h-3.2v6.4h-6.4v3.2h6.4v6.4h3.2v-6.4h6.4v-3.2h-6.4v-6.4z"></path>
 </symbol>
-<symbol id="icon-add_table" viewBox="0 0 32 32">
-<title>add_table</title>
+<symbol id="icon-add-table" viewBox="0 0 32 32">
+<title>add-table</title>
 <path d="M31.8 3.533v25.223h-31.6v-25.223h31.6zM8.866 14.466h-6.4v12.023h6.4v-12.023zM29.533 14.466h-18.4v12.023h18.4v-12.023zM29.533 5.8h-27.067v6.4h27.067v-6.4z"></path>
 </symbol>
 <symbol id="icon-arrow-double-left" viewBox="0 0 32 32">
